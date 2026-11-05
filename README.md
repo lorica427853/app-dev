@@ -8,7 +8,3 @@ Rapunzel is kind, brave, and adventurous.
 It has a sweet and romantic love story.
 ### Genre
 Animation, Fantasy, Musical, Romance
-	*Main Characters*
-1. Rapunzel
-2. Flynn Rider
-3. Mother Gothel
